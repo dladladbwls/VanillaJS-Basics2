@@ -1,2 +1,2 @@
-# VanillaJS-Basics2
+# JS-BS
 Created with CodeSandbox
